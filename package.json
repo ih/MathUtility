@@ -1,0 +1,7 @@
+{
+  "name": "com.abstractionmachines.mathutility",
+  "version": "0.0.0",
+  "displayName": "Math Utility",
+  "description": "Helper functions related to math",
+  "unity": "2021.3"
+}
